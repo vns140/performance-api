@@ -1,0 +1,15 @@
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.csprojAssemblyReference.cache
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.csproj.CoreCompileInputs.cache
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.RazorAssemblyInfo.cache
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.RazorAssemblyInfo.cs
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.AssemblyInfoInputs.cache
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.AssemblyInfo.cs
+E:\projetos\estudos\arquitetura-rapida\mircroservice\bin\Debug\netcoreapp2.1\mircroservice.deps.json
+E:\projetos\estudos\arquitetura-rapida\mircroservice\bin\Debug\netcoreapp2.1\mircroservice.runtimeconfig.json
+E:\projetos\estudos\arquitetura-rapida\mircroservice\bin\Debug\netcoreapp2.1\mircroservice.runtimeconfig.dev.json
+E:\projetos\estudos\arquitetura-rapida\mircroservice\bin\Debug\netcoreapp2.1\mircroservice.dll
+E:\projetos\estudos\arquitetura-rapida\mircroservice\bin\Debug\netcoreapp2.1\mircroservice.pdb
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.RazorTargetAssemblyInfo.cache
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.dll
+E:\projetos\estudos\arquitetura-rapida\mircroservice\obj\Debug\netcoreapp2.1\mircroservice.pdb
+E:\projetos\estudos\arquitetura-rapida\mircroservice\bin\Debug\netcoreapp2.1\api-microservice.xml
